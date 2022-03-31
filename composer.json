@@ -1,0 +1,24 @@
+{
+    "name": "dovcha/%SERVICE_NAME%",
+    "autoload": {
+        "psr-4": {
+            "Dovcha\\Goods\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "r4f4dev",
+            "email": "k0gepy3@gmail.com"
+        }
+    ],
+    "require": {
+        "sultanov-solutions/laravel-base": "^1.0"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Dovcha\\%SERVICE_NAME%\\ServiceProvider"
+            ]
+        }
+    }
+}
