@@ -1,5 +1,6 @@
 {
     "name": "dovcha/%SERVICE_NAME%",
+    "version": "%.%.%",
     "autoload": {
         "psr-4": {
             "Dovcha\\Goods\\": "src/"
