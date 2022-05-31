@@ -3,3 +3,6 @@
 /.vscode
 composer.lock
 .env
+artisan
+index.php
+/src/Storage
