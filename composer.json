@@ -1,9 +1,9 @@
 {
-    "name": "dovcha/package_name",
+    "name": "sultanov-solutions/package_name",
     "version": "0.0.1",
     "autoload": {
         "psr-4": {
-            "Dovcha\\%SERVICE_NAME%\\": "src/"
+            "SultanovSolutions\\%SERVICE_NAME%\\": "src/"
         }
     },
     "authors": [
@@ -21,7 +21,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Dovcha\\%SERVICE_NAME%\\ServiceProvider"
+                "SultanovSolutions\\%SERVICE_NAME%\\ServiceProvider"
             ]
         }
     },
