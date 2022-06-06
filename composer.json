@@ -13,7 +13,7 @@
         }
     ],   
     "require": {
-        "sultanov-solutions/laravel-base": "^1.0",
+        "sultanov-solutions/laravel-base": "^1.0"
     },
     "require-dev": {
         "sultanov-solutions/micro": "^0.0"
