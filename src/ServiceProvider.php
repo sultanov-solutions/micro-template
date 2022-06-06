@@ -1,6 +1,6 @@
 <?php
 
-namespace SultanovSolutions\%SERVICE_NAME%;
+namespace SultanovPackage\%SERVICE_NAME%;
 
 use SultanovSolutions\LaravelBase\Providers\BaseServiceProvider;
 
