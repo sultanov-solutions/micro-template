@@ -1,6 +1,6 @@
 <?php
 
-namespace SultanovSolutions\%SERVICE_NAME%\Controllers;
+namespace SultanovPackage\%SERVICE_NAME%\Controllers;
 
 use SultanovSolutions\%SERVICE_NAME%\Models\Example;
 use SultanovSolutions\LaravelBase\Controllers\BaseController;
