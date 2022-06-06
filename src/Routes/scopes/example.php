@@ -1,6 +1,6 @@
 <?php
 
-use Dovcha\%SERVICE_NAME%\Controllers\ExampleController as ScopeController;
+use SultanovSolutions\%SERVICE_NAME%\Controllers\ExampleController as ScopeController;
 use Illuminate\Support\Facades\Route;
 
 $scope = basename(__FILE__, '.php');;
