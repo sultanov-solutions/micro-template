@@ -3,7 +3,7 @@
     "version": "0.0.1",
     "autoload": {
         "psr-4": {
-            "SultanovSolutions\\%SERVICE_NAME%\\": "src/"
+            "SultanovPackage\\%SERVICE_NAME%\\": "src/"
         }
     },
     "authors": [
@@ -21,7 +21,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "SultanovSolutions\\%SERVICE_NAME%\\ServiceProvider"
+                "SultanovPackage\\%SERVICE_NAME%\\ServiceProvider"
             ]
         }
     },
