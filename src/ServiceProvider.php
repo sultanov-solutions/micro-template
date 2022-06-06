@@ -1,6 +1,6 @@
 <?php
 
-namespace Dovcha\%SERVICE_NAME%;
+namespace SultanovSolutions\%SERVICE_NAME%;
 
 use SultanovSolutions\LaravelBase\Providers\BaseServiceProvider;
 
