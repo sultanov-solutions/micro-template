@@ -3,6 +3,7 @@
 /.vscode
 /src/Storage
 /node_modules
+/public
 /src/Public/hot
 /src/Public/storage
 .env
