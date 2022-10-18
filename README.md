@@ -1,4 +1,4 @@
-# Insall
+# Install
 
 Install dependencies
 ```
